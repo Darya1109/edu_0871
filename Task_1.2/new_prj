@@ -1,0 +1,20 @@
+class Main {
+    public static void main(String[] args) {
+        int a = 3;
+        int b = 2;
+
+ //       System.out.print("два");
+        System.out.print(b);
+        System.out.print(" плюс ");
+  //      System.out.print(" минус ");
+        System.out.print(a);
+ //       System.out.print("три");
+        System.out.print(" равно ");
+        System.out.print(" будет ");
+  //      System.out.print("пять");
+        System.out.print(a + b);
+    }
+}
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\lib\idea_rt.jar=61214:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\User\IdeaProjects\new_prj\out\production\new_prj Main
+2 плюс 3 равно  будет 5
+Process finished with exit code 0
